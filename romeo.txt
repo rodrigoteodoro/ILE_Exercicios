@@ -1,0 +1,3 @@
+{‘Levantar’, ‘Mas’, ‘Ele’, ‘Julieta’, ‘Quem’, ‘já’, ‘e’, ‘quebra’, ‘leste’,
+‘invejoso’, ‘justo’, ‘dor’, ‘ser’, ‘matar’, ‘luz’, ‘Lua’, ‘pálida’, ‘doente’,
+‘macio’, ‘sol’, ‘o’, ‘através’, ‘que’, ‘janela’, ‘com’, ‘lá’}
